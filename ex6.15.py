@@ -43,3 +43,4 @@ if (listNom[longueur]!="Fin"):
 
 
         print("Cote maximale: ", maxC," pour l'eleve ", eMaxC, " Cote minimale de  ", minC, " Pour l'élève ", eMinC)
+        print("test edition github")
